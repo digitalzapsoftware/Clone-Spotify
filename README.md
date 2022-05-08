@@ -1,2 +1,2 @@
 # Clone-Spotify
- Clone do Spotify ultilizando HTML, CSS!
+ Clone do Spotify ultilizando HTML, CSS.
